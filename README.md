@@ -1,1 +1,1 @@
-2nd year OOP prject CRUD system.
+2nd year OOP project CRUD system.
